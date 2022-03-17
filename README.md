@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelAlexanderHaag
-- 👀 I’m interested in Philosophy, Programming and Hisotry
+- 👀 I’m interested in Philosophy, Programming and History
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: Michael.Alexander.Haag@googlemail.com
 
